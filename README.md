@@ -16,7 +16,7 @@ const firebaseConfig = {
 }
 ```
 
-### You need to make sure that you enabled Google Authentication in Project Settings/Authentication on Firebase.
+### You need to make sure that you enabled Google Authentication in Project Settings/Authentication and Cloud Firestor in test mode on your Firebase project.
 
 
 Run project by typing 
